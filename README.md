@@ -1,171 +1,157 @@
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:2563EB,100:7C3AED&height=190&section=header&text=Rafique%20Pasha&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=60&font=Roboto" alt="Rafique Pasha banner" />
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;React.js+%7C+Node.js+%7C+REST+APIs;Clean+Architecture+%7C+Reliable+Solutions" alt="Typing SVG" />
-
-<br/>
-
+<!--
+Create a PUBLIC repository named exactly: Rafiquepasha30
+Use this file as README.md in the repository.
+--><!-- ==================== HEADER ==================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:1D4ED8,100:7C3AED&height=210&section=header&text=Rafique%20Pasha&fontSize=52&fontColor=F8FAFC&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=22&descAlignY=58&font=Roboto" alt="Rafique Pasha — Full Stack Developer" /><div align="center"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=Building+Reliable+Web+Applications;React.js+%7C+Node.js+%7C+REST+APIs;Clean+Architecture+%7C+Secure+Authentication;Turning+Ideas+Into+Useful+Products" alt="Developer tagline" />
 <a href="https://www.linkedin.com/in/rafique-pasha-578975198">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:rafiquepasha30@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<img src="https://img.shields.io/badge/Location-India-0B1220?style=for-the-badge&logo=googlemaps&logoColor=60A5FA" alt="Location"/>
+<img src="https://img.shields.io/badge/Location-India-0B1220?style=for-the-badge&logo=googlemaps&logoColor=60A5FA" alt="Location"/></div>👋 About Me
+I'm a Full Stack Developer with 2+ years of experience building production web applications. I work across frontend development, backend APIs, authentication, and database integration, with a strong focus on maintainable architecture and reliable user experiences.
+- 💻 Currently building a consumer-facing web platform at LoomX
+- 🔐 Experience with OTP/JWT authentication, refresh-token workflows, and role-based access control
+- ⚡ Focused on performance through debounced search, request cancellation, and optimistic UI updates
+- 🧱 Enjoy building reusable components, custom hooks, and service-layer architecture
+- 🤝 Experienced with Agile collaboration, Jira, Postman, Git, and code reviews
+- 🌱 Currently deepening my knowledge of system design, testing, Docker, and CI/CD
+💼 Experience
+Full Stack Developer · LoomX
+Aug 2025 – Present
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Full Stack Developer** with 2+ years of experience building production web applications. I specialize in secure authentication, REST API integration, and clean, maintainable frontend architecture.
-
-I enjoy solving real-world engineering problems, building reliable applications, and collaborating with teams to deliver quality software.
-
-- 🏢 Currently building a consumer-facing web platform at **LoomX**
-- 🔐 Experienced in OTP/JWT authentication, token refresh flows, and role-based access control
-- ⚡ Focused on performance, reliability, and responsive user experiences
-- 🧩 Experienced with reusable components, custom hooks, and service-layer architecture
-- 🤝 Comfortable with Agile workflows, Jira, Postman, Git, and code reviews
-- 🌱 Currently strengthening system design, testing, Docker, and CI/CD
-
----
-
-## 💼 Professional Experience
-
-### Full Stack Developer — LoomX
-**Aug 2025 – Present**
-
-Working on a consumer-facing web platform with a focus on frontend architecture, authentication, API integration, and performance.
-
+Contributing to a consumer-facing web platform, focusing on frontend architecture, authentication flows, API integration, and performance.
 <details>
-<summary><b>Key Responsibilities & Contributions</b></summary>
+<summary><b>Highlights</b></summary>- Implemented phone/email OTP login and registration flows.
+- Integrated JWT access and refresh tokens with Axios interceptors.
+- Built automatic token refresh with request queuing.
+- Worked on password reset and multi-device session management.
+- Developed profile editing, avatar/cover uploads, public profiles, and user search.
+- Integrated follow/unfollow and block/unblock functionality against backend API contracts.
+- Implemented debounced search with AbortController.
+- Added optimistic UI updates with error rollback.
+- Improved profile synchronization and reduced duplicate fetches.
+- Used services, custom-hook controllers, data mappers, and reusable components to keep code maintainable.
+- Validated API behavior and contracts using Postman.
+Stack: React.js Vite Tailwind CSS Axios REST APIs Postman Jira Git
+</details>Full Stack Developer · Foll Software Pvt. Ltd.
+Jun 2024 – Jun 2025
 
-<br/>
-
-- Implemented phone and email OTP authentication for login and registration.
-- Integrated JWT access and refresh token workflows using Axios interceptors.
-- Developed automatic token refresh with request queuing.
-- Built password reset and multi-device session management flows.
-- Developed user profile editing, avatar and cover image uploads using multipart requests.
-- Integrated public profiles, user search, follow/unfollow, and block/unblock features.
-- Implemented debounced search and request cancellation using `AbortController`.
-- Developed optimistic UI updates with error rollback.
-- Improved profile synchronization and reduced duplicate API requests.
-- Applied reusable architecture using services, custom hooks, data mappers, and components.
-- Validated API contracts and workflows using Postman.
-
-**Tech Stack:** `React.js` `Vite` `Tailwind CSS` `Axios` `REST APIs` `Postman` `Jira` `Git`
-
-</details>
-
-### Full Stack Developer — Foll Software Pvt. Ltd.
-**Jun 2024 – Jun 2025**
-
-Worked on client-facing web applications, developing frontend modules, backend APIs, and database integrations.
-
+Worked on client-facing web applications across frontend modules, backend APIs, and database integrations.
 <details>
-<summary><b>Key Responsibilities & Contributions</b></summary>
-
-<br/>
-
-- Built responsive frontend modules using React.js, Redux, and Tailwind CSS.
+<summary><b>Highlights</b></summary>- Built responsive UI modules using React.js, Redux, and Tailwind CSS.
 - Developed REST APIs using Node.js and Express.js.
 - Implemented JWT authentication and role-based access control.
-- Designed and maintained MongoDB and SQL database schemas.
+- Designed and maintained MongoDB and SQL schemas.
 - Optimized database queries and application data handling.
 - Integrated third-party APIs into web applications.
 - Resolved data synchronization issues in booking and dashboard features.
-- Collaborated with team members during Agile development cycles.
+- Collaborated with team members in Agile development cycles.
+Stack: React.js Redux Node.js Express.js MongoDB SQL REST APIs
+</details>🔒 Company and client code is private. I'm happy to discuss architecture and engineering decisions in an interview.
 
-**Tech Stack:** `React.js` `Redux` `Node.js` `Express.js` `MongoDB` `SQL` `REST APIs`
-
-</details>
-
-> 🔒 Company and client code is private and therefore not published here. I'm happy to discuss the architecture and engineering decisions in an interview.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
+🚀 Featured Projects
+<!-- Replace the placeholders below with your actual public repositories and live demos. --><table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Project One</h3>
+      <p align="center">A full-stack application focused on solving a real-world problem.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-Frontend-2563EB?style=flat-square&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-Backend-16A34A?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-Database-047857?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="YOUR_PROJECT_ONE_REPO_URL">Repository</a> ·
+        <a href="YOUR_PROJECT_ONE_LIVE_URL">Live Demo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Project Two</h3>
+      <p align="center">A responsive web application with API integration and reusable UI.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-Frontend-2563EB?style=flat-square&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST_API-Integration-7C3AED?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Tailwind-CSS-0891B2?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="YOUR_PROJECT_TWO_REPO_URL">Repository</a> ·
+        <a href="YOUR_PROJECT_TWO_LIVE_URL">Live Demo</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Project Three</h3>
+      <p align="center">A backend/API project demonstrating validation, data handling, and error management.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-Backend-16A34A?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-API-334155?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Database-SQL%2FNoSQL-7C3AED?style=flat-square"/>
+      </p>
+      <p align="center">
+        <a href="YOUR_PROJECT_THREE_REPO_URL">Repository</a> ·
+        <a href="YOUR_PROJECT_THREE_LIVE_URL">Live Demo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">More Projects</h3>
+      <p align="center">Explore my repositories for experiments, learning projects, and other development work.</p>
+      <p align="center">
+        <a href="https://github.com/Rafiquepasha30?tab=repositories">View All Repositories</a>
+      </p>
+    </td>
+  </tr>
+</table>🧰 Tech Stack
+Languages
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" alt="Languages"/>
-</p>
-
-### Frontend Development
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" alt="JavaScript, TypeScript, Python, HTML, CSS"/>
+</p>Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,vite&theme=dark" alt="Frontend Technologies"/>
-</p>
-
-### Backend & Databases
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,vite&theme=dark" alt="React, Redux, Next.js, Tailwind CSS, Vite"/>
+</p>Backend & Databases
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase&theme=dark" alt="Backend and Databases"/>
-</p>
-
-### DevOps, Cloud & Tools
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase&theme=dark" alt="Node.js, Express, MongoDB, MySQL, PostgreSQL, Firebase"/>
+</p>DevOps, Cloud & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,aws,vercel,linux,postman&theme=dark" alt="DevOps and Tools"/>
-</p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,aws,vercel,linux,postman&theme=dark" alt="Docker, Git, GitHub, GitHub Actions, AWS, Vercel, Linux, Postman"/>
+</p>🧩 Engineering Focus
+Area	Experience
+Frontend Architecture	Reusable components, custom hooks, service layers
+Authentication	OTP, JWT, refresh-token flows, RBAC
+API Integration	Axios interceptors, request handling, error states
+Performance	Debouncing, AbortController, optimistic updates
+Backend	Node.js, Express.js, REST API development
+Data	MongoDB, SQL schema design, query optimization
+Collaboration	Agile, Jira, Postman, Git workflows, code reviews
 
----
 
-## 🧠 Core Technical Areas
-
-| Area | Skills |
-|---|---|
-| Frontend | React.js, Redux, Tailwind CSS, Responsive UI |
-| Backend | Node.js, Express.js, REST API Development |
-| Authentication | OTP, JWT, Refresh Tokens, RBAC |
-| API Integration | Axios, Interceptors, Error Handling |
-| Architecture | Services, Custom Hooks, Reusable Components |
-| Databases | MongoDB, MySQL, PostgreSQL |
-| Performance | Debouncing, AbortController, Optimistic UI |
-| Tools | Git, GitHub, Jira, Postman |
-| DevOps | Docker, GitHub Actions, AWS, Linux |
-
----
-
-## 📊 GitHub Analytics
-
+📈 GitHub Analytics
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafiquepasha30&show_icons=true&hide_border=true&bg_color=0B1220&title_color=60A5FA&icon_color=8B5CF6&text_color=CBD5E1&ring_color=2563EB" alt="GitHub stats"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiquepasha30&layout=compact&hide_border=true&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1" alt="Top languages"/>
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafiquepasha30&hide_border=true&background=0B1220&ring=2563EB&fire=8B5CF6&currStreakLabel=60A5FA&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/></div>🐍 Contribution Graph
+<!-- To enable the snake animation:
+1. Add the workflow from https://github.com/Platane/snk to your profile repository.
+2. Configure it to publish output to the output branch.
+3. Uncomment the image below after the workflow is set up.
+--><!--
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafiquepasha30&show_icons=true&hide_border=true&bg_color=0B1220&title_color=60A5FA&icon_color=8B5CF6&text_color=CBD5E1&ring_color=2563EB" alt="GitHub Statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiquepasha30&layout=compact&hide_border=true&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1" alt="Top Languages"/>
-
-<br/>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafiquepasha30&hide_border=true&background=0B1220&ring=2563EB&fire=8B5CF6&currStreakLabel=60A5FA&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub Streak"/>
-
+  <img src="https://raw.githubusercontent.com/Rafiquepasha30/Rafiquepasha30/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
 </div>
-
----
-
-## 🎯 Current Focus
-
-- Strengthening system design and scalable application architecture
-- Writing maintainable and testable React applications
-- Learning Jest and React Testing Library
-- Improving backend engineering and API design
-- Building reliable deployment workflows with Docker and CI/CD
-- Developing stronger debugging and problem-solving skills
-
----
-
-## 📫 Let's Connect
-
-I'm always open to discussing web development, frontend architecture, backend engineering, REST APIs, and exciting development opportunities.
-
-<p>
-<a href="mailto:rafiquepasha30@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+-->🌱 Currently Learning
+- System design and scalable application architecture
+- Unit and component testing with Jest and React Testing Library
+- Docker and containerized development workflows
+- CI/CD and reliable deployment practices
+- Backend design, validation, and maintainable API patterns
+🤝 Let's Connect
+I'm open to discussing web development, frontend architecture, backend engineering, API design, and exciting opportunities.
+<div align="center"><a href="mailto:rafiquepasha30@gmail.com">
+  <img src="https://img.shields.io/badge/Email-rafiquepasha30%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/rafique-pasha-578975198">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Rafique%20Pasha-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:2563EB,100:7C3AED&height=100&section=footer" alt="Footer banner"/>
+
+<img src="https://komarev.com/ghpvc/?username=Rafiquepasha30&style=flat-square&color=2563EB&label=Profile+Views" alt="Profile views"/></div><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:1D4ED8,100:7C3AED&height=110&section=footer" alt="Footer banner"/>
